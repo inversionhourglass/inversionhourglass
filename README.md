@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inversionhourglass&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inversionhourglass&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inversionhourglass&show_icons=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inversionhourglass&layout=compact)
